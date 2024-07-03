@@ -163,4 +163,4 @@ function sumDigits(number: number) {
         .reduce((sum, i) => sum + Number(i), 0);
 }
 
-console.log(sumDigits(12));
+// console.log(sumDigits(12));

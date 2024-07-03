@@ -135,4 +135,4 @@ function sumDigits(number) {
         .filter(function (i) { return Number(i); })
         .reduce(function (sum, i) { return sum + Number(i); }, 0);
 }
-console.log(sumDigits(12));
+// console.log(sumDigits(12));
